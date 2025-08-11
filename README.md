@@ -1,6 +1,6 @@
 # Copiar MathJax Online
 
-Este é um projeto de estudo e prática de React.js, replicando o design e as funcionalidades do site copypastemathjax.com. A ideia principal é fornecer uma ferramenta simples e eficiente para copiar e colar expressões matemáticas formatadas em LaTeX/MathJax.
+Este é um projeto de estudo e prática de React.js, replicando o design e as funcionalidades do site [copypastemathjax.com](copypastemathjax.com). A ideia principal é fornecer uma ferramenta simples e eficiente para copiar e colar expressões matemáticas formatadas em LaTeX/MathJax.
 
 A principal funcionalidade adicional implementada neste projeto, que não existe na versão original, é a opção de alternar entre o tema claro e escuro.
 
@@ -21,7 +21,7 @@ A principal funcionalidade adicional implementada neste projeto, que não existe
 
 ## Demo
 
-[Clique para ver online](https://copiar-mathjax-online.github.io)
+[Clique para ver online](https://copiar-mathjax-online.vercel.app/)
 
 ---
 
